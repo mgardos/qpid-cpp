@@ -90,4 +90,4 @@ The system cannot find the path specified.
 The system cannot find the path specified.
 ```
 
-## Powershell script for automaiting the building
+## Powershell script for automating the building
